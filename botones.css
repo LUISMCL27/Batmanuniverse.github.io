@@ -1,0 +1,8 @@
+button{
+	text-decoration: none;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	background-image: linear-gradient(to right,grey,white);
+	padding-bottom: 1px;
+	
+}
+
